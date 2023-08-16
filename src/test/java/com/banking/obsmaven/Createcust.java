@@ -7,7 +7,7 @@ public class Createcust
 @Test(groups = "smoke")
 public void createcust()
 {
-	System.out.println("custmer is modify");
+	System.out.println("custmer is modify ");
 	}
 @Test(groups = "regression")
 public void addcust()
